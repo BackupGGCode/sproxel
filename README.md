@@ -37,6 +37,3 @@ This release is the first to be built with the Microsoft compiler.  Hop on over 
 <b>05/19/11</b> - Version 0.2 of the Sproxel editor is available for download.  New features include: A new toolbar, CTRL+F frames the entire voxel grid, & new mouse button behavior.  Also a developer blog has been born - keep an eye on it at <a href='http://sproxel.blogspot.com/'>http://sproxel.blogspot.com/</a> for future updates and developer notes.<br>
 <br>
 <b>05/10/11</b> - The first versioned release of the Sproxel editor is available for download!  New features include: undo/redo, grid subdivision/resolution control, grid shift (with and without wrap), and partially-completed palette window.<br>
-<br>
-<h1>Contact</h1>
-If you would like to e-mail the author of Sproxel to make a suggestion, issue a request, or just say 'Hi,' my e-mail address is on the left of this page under the <b>Members</b> header.  It's missing some characters for spam-bot safety, so you can click on the <b>androo.g...@gmail.com</b>, fill out the captcha, and send a mail to the fully-revealed address.  Or you can just insert the letters <b>ardner</b> in place of the <b>...</b>  I try to respond to everything I receive within a day or two.
